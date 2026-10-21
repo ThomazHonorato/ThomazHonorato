@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thomaz and I'm a 33 years old developer from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Thomaz and I'm a 35 years old developer from Brazil.</h2>
 
 ###
 
